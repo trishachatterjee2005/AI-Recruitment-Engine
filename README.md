@@ -5,10 +5,10 @@ A production-grade, multimodal AI resume screening pipeline built with Gemini 1.
 ## 📸 Project Gallery
 
 ### 1. Automation Architecture (Make.com)
-![Workflow](Docs/make-workflow-architecture.png)
+![Workflow](Docs/make-workflow-architecture.PNG)
 
 ### 2. HR Intelligence Hub (Airtable)
-![Database](Docs/airtable-candidate-database.jpeg)
+![Database](Docs/airtable-candidate-database.JPEG)
 
 ### 3. Automated Outreach Result (Gmail)
-![Email Output](Docs/automated-email-result.png)
+![Email Output](Docs/automated-email-result.PNG)
